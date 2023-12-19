@@ -1,0 +1,12 @@
+.rounde{
+    width: 80px;
+    height: 80px;
+    border-radius: 100%;
+}
+.icon{
+    display: flex;
+    
+}
+.icon .text{
+margin-left: 10px;
+}
